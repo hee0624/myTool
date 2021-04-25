@@ -21,3 +21,4 @@
 |003|Awesome Screenshot|截图与录屏 |[链接](https://www.baidu.com.crxdl.com/crx-file/Aa9P69TNAcxZPwRDt8rTMhDdBIep7XCF/nlipoenfbbikpbjkfpfillcgkoblgpmj_v4.3.21.zip)|
 |004|Vimium|全键盘操作浏览器 |[链接](https://www.baidu.com.crxdl.com/crx-file/Aa9P69TNAcxZPwRDt8rTMhDdBIep7XCF/hfjbmagddngcpeloejdejnfgbamkjaeg_v1.89.0.zip)|
 |005|Octotree|GitHub code tree|[链接](https://www.baidu.com.crxdl.com/crx-file/Aa9P69TNAcxZPwRDt8rTMhDdBIep7XCF/bkhaagjahfmjljalopjnoealnfndnagc_v7.0.1.zip)|
+|006|GitHub加速|访问GitHub加速|[链接](https://www.baidu.com.crxdl.com/crx-file/Aa9P69TNAcxZPwRDt8rTMhDdBIep7XCF/mfnkflidjnladnkldfonnaicljppahpg_v1.2.4.zip)|
